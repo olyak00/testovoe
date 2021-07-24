@@ -1,7 +1,7 @@
 <?php
 
-
-$url = 'localhost/index.php?function=functionName';
+$url = 
+//$url = 'localhost/index.php?function=functionName';
 //$url = ' localhost/store/product?date=2020-02-20';
 //$url = ' localhost/store/product/create?id=5';
 //$url = ' localhost/qweqwe/qwerqwetgwsgh';

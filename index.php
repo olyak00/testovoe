@@ -8,9 +8,9 @@
     </head>
     <body>
         <form>
-    <div class="search">
+    <div class="search container mt-5">
     <input type="search" class="form-control" placeholder="Search..." aria-label="Search">
-    <a class="btn btn-outline-secondary" href="php.php">Search</a>
+    <a class="btn btn-outline-secondary" href="#php.php">Search</a>
     </div>
         </form>
     </body>

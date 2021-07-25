@@ -7,10 +7,10 @@
         <title>Testovoe</title>
     </head>
     <body>
-        <form>
+        <form action = "php.php" method="get">
     <div class="search container mt-5">
-    <input type="search" class="form-control" placeholder="Search..." aria-label="Search">
-    <a class="btn btn-outline-secondary" href="#php.php">Search</a>
+    <input type="search" name="Search" class="form-control" placeholder="Search..." aria-label="Search"><br>
+    <button type="submit" class="btn btn-outline-secondary" > Search </button>
     </div>
         </form>
     </body>

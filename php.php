@@ -1,9 +1,9 @@
 <?php
-
-var_dump($_GET);
-if (isset($_GET['url']) and isset ($_GET[''])){
+print_r($_GET);
+/*
+if (isset($_GET['url'])){
     echo $_GET['url'];
-}
+}*/
 /*
 $url = $_GET[''];
 //$url = 'localhost/index.php?function=functionName';

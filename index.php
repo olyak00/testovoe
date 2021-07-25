@@ -7,7 +7,11 @@
         <title>Testovoe</title>
     </head>
     <body>
-        
-
+        <form>
+    <div class="search">
+    <input type="search" class="form-control" placeholder="Search..." aria-label="Search">
+    <a class="btn btn-outline-secondary" href="php.php">Search</a>
+    </div>
+        </form>
     </body>
     </html>   

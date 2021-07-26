@@ -1,11 +1,6 @@
 <?php
-print_r($_GET);
-/*
-if (isset($_GET['url'])){
-    echo $_GET['url'];
-}*/
-/*
-$url = $_GET[''];
+
+$url = $_GET['Search'];
 //$url = 'localhost/index.php?function=functionName';
 //$url = ' localhost/store/product?date=2020-02-20';
 //$url = ' localhost/store/product/create?id=5';
@@ -44,5 +39,5 @@ function error()
 {
     echo 'error 404';
 }
-*/
+
 ?>
